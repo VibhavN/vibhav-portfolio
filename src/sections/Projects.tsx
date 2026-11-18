@@ -1,14 +1,22 @@
 
 import { ArrowUpRight } from 'lucide-react'
 
+
 const projects = [
   {
     number: '01',
-    title: 'Pulse',
-    category: 'AI-Powered Application',
+    title: 'CareerSwitch',
+    category: 'Job Search Management Platform',
     description:
-      'A Voice of Customer Intelligence platform that transforms customer feedback into actionable insights using AI-powered sentiment and topic analysis.',
-    technologies: ['React', 'TypeScript', 'Node.js', 'LLM API'],
+      'A personal job search management platform that helps users organise job applications, track application progress, and manage their job search through a centralised dashboard.',
+    technologies: [
+      'React',
+      'TypeScript',
+      'Tailwind CSS',
+      'Supabase',
+      'PostgreSQL',
+      'TanStack Query',
+    ],
     status: 'In Development',
     link: '#',
   },
@@ -23,6 +31,7 @@ const projects = [
     link: '#',
   },
 ]
+
 
 function Projects() {
   return (
