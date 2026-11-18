@@ -18,7 +18,7 @@ const projects = [
       'TanStack Query',
     ],
     status: 'In Development',
-    link: '#',
+    // link: '#',
   },
   {
     number: '02',

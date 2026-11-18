@@ -57,7 +57,7 @@ function Hero() {
 
         <div className="mt-16 flex items-center gap-6 text-sm text-gray-400">
           <a
-            href="YOUR_GITHUB_URL"
+            href="https://github.com/VibhavN"
             target="_blank"
             rel="noreferrer"
             className="transition hover:text-lime-400"
@@ -66,7 +66,7 @@ function Hero() {
           </a>
 
           <a
-            href="YOUR_LINKEDIN_URL"
+            href="https://www.linkedin.com/in/vibhavn/"
             target="_blank"
             rel="noreferrer"
             className="transition hover:text-lime-400"

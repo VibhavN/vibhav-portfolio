@@ -22,7 +22,7 @@ function Contact() {
         </p>
 
         <a
-          href="mailto:YOUR_EMAIL"
+          href="mailto:vibhavn.work@gmail.com"
           className="mt-10 inline-flex items-center gap-3 rounded-full bg-lime-400 px-7 py-4 font-semibold text-black transition hover:bg-lime-300"
         >
           <Mail size={19} />
@@ -37,7 +37,7 @@ function Contact() {
 
           <div className="flex gap-6 text-sm text-gray-400">
             <a
-              href="YOUR_GITHUB_URL"
+              href="https://github.com/VibhavN"
               target="_blank"
               rel="noreferrer"
               className="transition hover:text-lime-400"
@@ -46,7 +46,7 @@ function Contact() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/vibhavn/"
               target="_blank"
               rel="noreferrer"
               className="transition hover:text-lime-400"
