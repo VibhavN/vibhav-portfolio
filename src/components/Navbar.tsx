@@ -27,7 +27,7 @@ function Navbar() {
         </div>
 
         <a
-          href="mailto:vibhavn.work@gmail.com"
+          href="mailto:vibhavn.work@gmail.com?subject=Portfolio%20Enquiry&body=Hi%20Vibhav,"
           className="flex items-center gap-2 rounded-full border border-white/20 px-4 py-2 text-sm text-white transition hover:border-lime-400 hover:text-lime-400"
         >
           <Mail size={16} />
